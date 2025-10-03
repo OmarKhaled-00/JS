@@ -25,16 +25,16 @@ JavaScript is one of the 3 languages all web developers must learn:
 ---
 
 ## Some facts:
-  1- JavaScript and Java are completely different languages, both in concept and design.
-  2- JavaScript, invented by Brendan Eich in 1995, became an ECMA standard in 1997.
+  - 1- JavaScript and Java are completely different languages, both in concept and design.
+  - 2- JavaScript, invented by Brendan Eich in 1995, became an ECMA standard in 1997.
     - ECMAScript is the official name of the JavaScript standard.
     - From 1997 ECMA versions was abbreviated by numbers. (ES1, ES2, ES3, ES5, ES6).
     - 2016 - 2025, versions are named by year (ECMAScript 2016, 2017, 2018 ... 2025).
     - Check out Javascript versions [Here](https://www.w3schools.com/js/js_versions.asp) for more illustrations.
       - All Javascript methods will be discussed in this repo.
-  3- JavaScript follows the syntax and structure of the C programming language. Thus, it is a structured programming language.
-  4- It is a case-sensitive language.
-  5- All popular web browsers support JavaScript as they provide built-in execution environments.
+ - 3- JavaScript follows the syntax and structure of the C programming language. Thus, it is a structured programming language.
+ - 4- It is a case-sensitive language.
+ - 5- All popular web browsers support JavaScript as they provide built-in execution environments.
 
 ----
 
