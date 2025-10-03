@@ -25,7 +25,7 @@
   - **We will talk about the most popular ones**
     -  **console.log("Hello World");** : Prints text in the console.
     -  **window.alert("Hello World");** or **alert("Hello World");** : Displays text in a modal dialog box **(not preferred because it interrupts user interaction)**. 
-    -  **document.write("Hello World");** : Displays text directly on the page like making \ <h1> Hello World </h1>.
+    -  **document.write("Hello World");** : Displays text directly on the page like making \<h1> Hello World </h1>.
     -  **document.getElementById("demo").innerText="Hello World";** : You can change element's text with id "demo" in your html with any string you want.
     -  **Window.print()**: You can call the window.print() method in the browser to print the content of the current window.
   [See Outputs for Those](https://www.w3schools.com/js/js_output.asp)
