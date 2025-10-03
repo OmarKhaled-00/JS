@@ -16,11 +16,11 @@ JavaScript is one of the 3 languages all web developers must learn:
 ---
 
 ## Javascript Featues:
-  1- JavaScript Can Change HTML Content.
-  2- JavaScript Can Change HTML Attribute Values.
-  3- JavaScript Can Change HTML Styles (CSS).
-  4- JavaScript Can Hide HTML Elements.
-  5- JavaScript Can Show HTML Elements.
+ - 1- JavaScript Can Change HTML Content.
+ - 2- JavaScript Can Change HTML Attribute Values.
+ - 3- JavaScript Can Change HTML Styles (CSS).
+ - 4- JavaScript Can Hide HTML Elements.
+ - 5- JavaScript Can Show HTML Elements.
 
 ---
 
