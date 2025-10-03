@@ -28,8 +28,16 @@
         -    **document.write("Hello World");** : Displays text directly on the page like making \<h1>Hello World</h1>.
         -    **document.getElementById("demo").innerText="Hello World";** : You can change element's text with id "demo" in your html with any string you want.
         -    **Window.print()**: You can call the window.print() method in the browser to print the content of the current window.
-          -   [See Outputs for Those](https://www.w3schools.com/js/js_output.asp)
-          -   [See Outputs for Those](https://youtu.be/FYRypqj4Epw?si=5R0EyJJK0GQXEvYH)
+          -   [See Outputs for Those **W3school**](https://www.w3schools.com/js/js_output.asp)
+          -   [See Outputs for Those **Youtube Tutorials**](https://youtu.be/FYRypqj4Epw?si=5R0EyJJK0GQXEvYH)
+  ---
+  # Variables
+  - We have 3 mainly variables which are **var** ,**let** and **const**.
+      - **var** :
+          - is an old variable before ES6 .
+          - it can be redeclared and updated .
+          - it can be used as a global variable and local variable.
+          - **Hoisted** which means if you use it 
     
         
 
