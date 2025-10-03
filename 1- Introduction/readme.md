@@ -35,6 +35,7 @@ JavaScript is one of the 3 languages all web developers must learn:
  - 3- JavaScript follows the syntax and structure of the C programming language. Thus, it is a structured programming language.
  - 4- It is a case-sensitive language.
  - 5- All popular web browsers support JavaScript as they provide built-in execution environments.
+ - 6- JavaScript borrows most of its syntax from Java, C, and C++, but it has also been influenced by Awk, Perl, and Python.
 
 ----
 
