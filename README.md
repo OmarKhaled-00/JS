@@ -1,6 +1,5 @@
 # 📚 JavaScript Mastery Repository
 ## This repository is a complete collection of JavaScript learning materials, lessons, and exercises gathered from multiple sources including W3Schools, Udemy, MDN Docs, and YouTube tutorials.
-
 ## It covers JavaScript from the basics to advanced concepts, with structured notes, practical examples, and hands-on exercises to reinforce learning.
 ---
 ### ✨ Features:
