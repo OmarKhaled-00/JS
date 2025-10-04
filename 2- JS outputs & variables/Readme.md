@@ -37,7 +37,25 @@
           - is an old variable before ES6 .
           - it can be redeclared and updated .
           - it can be used as a global variable and local variable.
-          - **Hoisted** which means if you use it 
+          - **NOT** Preferred to use it , we will discuss why?.
+      - **let** :
+          - Introduced in ES6
+          - it can be updated , **not redeclared** in the same scope.
+          - Preferred to use it , we will discuss why?.
+      - **const** :
+          - Introduced in ES6
+          - it can't be **redeclared or updated** , except arrays , you can change their contents
+          - Must be initialized at declaration.
+          - Preferred to use it , we will discuss why?.
+  - There are 3 concepts you have to focus on it
+      - 1- **Hoisting** :
+          -  when JavaScript runs your code , it first scans it and sets up all your variable names before actually running the line .
+          -  So , Firstly finds all variable declarations ( var , let , const )
+              - then runs the code line by line
+          - when this happened there is a different behavior with each variable , **specially var**
+              - when you use var , JavaScript creates the variable and gives it the value undefinedright away - before your code starts running.
+                  console.log(a); // Prints undefined
+var a = 10; 
     
         
 
